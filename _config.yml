@@ -14,7 +14,7 @@ header:
   has_nav: true
   nav_links:
     - label: Home
-      url: /
+      url: /test
       style: link
     - label: About
       url: /about
